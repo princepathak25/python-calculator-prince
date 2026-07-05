@@ -1,7 +1,7 @@
 # Python CLI Calculator
 import time
 def calculator():
-    print("🧮 Welcome to Prince Pathak's Python Calculator!\n")
+    print("🧮 Welcome to CLI Calculator!\n")
 
     while True:
         try:
@@ -40,7 +40,7 @@ def calculator():
 
         again = input("🔁 Wanna calculate again? (y/n): ")
         if again.lower() != 'y':
-            print("\n👋 Thanks for using Prince’s Calculator. Hope you have great mindful day ahead!\n")
+            print("\n👋 Thanks for using. Have a great day!\n")
             break
 
 calculator()
