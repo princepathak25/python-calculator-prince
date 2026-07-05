@@ -1,4 +1,4 @@
-# Python Calculator by Prince Pathak
+# Python CLI Calculator
 import time
 def calculator():
     print("🧮 Welcome to Prince Pathak's Python Calculator!\n")
@@ -44,5 +44,4 @@ def calculator():
             break
 
 calculator()
-# End of calculator code
     
