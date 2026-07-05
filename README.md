@@ -1,7 +1,10 @@
-# Python CLI Calculator
+# CLI Calculator
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 A sleek terminal calculator built with Python.  
 Supports both basic and advanced math operations with clean user prompts, error handling, and a smooth "thinking" UX experience.
+
+---
 
 ## Features
 
@@ -12,18 +15,18 @@ Supports both basic and advanced math operations with clean user prompts, error 
 - Friendly and human-like terminal responses
 - Clean, maintainable Python structure
 
-## How to Run
+---
 
-```bash
-python calculator-prince.py
-```
+## Tech Stack
 
-Works with Python 3.x on any terminal or IDE
+- Python 3.x
+
+---
 
 ## Sample Interaction
 
 ```text
-🧮 Welcome to Prince Pathak's Python Calculator!
+🧮 Welcome to CLI Calculator!
 
 🔢 Enter first number: 12
 ➕ Choose operation (+, -, *, /, %, //, **): *
@@ -34,22 +37,37 @@ Works with Python 3.x on any terminal or IDE
 
 🔁 Wanna calculate again? (y/n): n
 
-👋 Thanks for using Prince’s Calculator. Hope you have a great, mindful day ahead!
+👋 Thanks for using. Have a great day!
 ```
 
-## Built With
+---
 
-- Python 3.x  
-- `time` module 
+## How to Run
+
+```bash
+python calculator-prince.py
+```
+
+Works with Python 3.x on any terminal or IDE
+
+---
 
 ## File Structure
 
 ```
-python-calculator-prince
+cli-calculator
  ┣ calculator-prince.py
  ┗ README.md
 ```
 
-## Author
+---
 
-Prince Pathak
+## Connect with Me
+
+- **GitHub:** https://github.com/princepathak25
+- **LinkedIn:** https://www.linkedin.com/in/prince-pathak-142651373
+
+---
+
+## Author
+**Prince Pathak**
